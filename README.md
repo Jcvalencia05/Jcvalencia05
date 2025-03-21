@@ -7,7 +7,7 @@
 
 Welcome to my profile.
 
-I am currently pursuing B.Tech degree in Mechatronic engin in University of Caldas, Manizales. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
+I am mechatronics engineer from the University of Caldas Manizales. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
 
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <div id="badges">
