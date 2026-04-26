@@ -1,10 +1,10 @@
 <div align="center">
 <div id="header">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
-</div>
-<a objetivo="_blanco" alinear="centro">
-  <imagen alinear="bien" arriba="500" altura="300" ancho="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+</div>
+
   
 ### Hi, I'am Juan Camilo Valencia
 
