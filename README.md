@@ -7,7 +7,9 @@
 
 Welcome to my profile.
 
-I am mechatronics engineer from the University of Caldas Manizales. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
+Mechatronics Engineer and Electronics Technologist from Universidad de Caldas, focused on software development. I am characterized by my analytical
+and problem-solving skills,integrating knowledge from different areas to build efficient solutions. Focused on backend development and creating scalable 
+systems, applying Clean Code principles to ensure maintainable, readable, and quality code.
 
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <div id="badges">
